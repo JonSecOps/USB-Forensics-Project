@@ -12,3 +12,5 @@ This USB Forensic project involved analyzing a USB thumb drive recovered in an i
 6. **Critical Thinking in Investigations**: Developed logical problem-solving skills by following leads and extracting actionable information from obscure data points. 
 
 This project highlights essential skills and techniques in digital forensics, emphasizing precision and thoroughness in handling evidence.
+
+https://github.com/JonSecOps/USB-Forensics-Project/blob/main/USB%20Forensic%20Project.pdf
